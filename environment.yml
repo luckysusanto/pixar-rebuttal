@@ -188,4 +188,3 @@ dependencies:
       - werkzeug==3.1.7
       - xxhash==3.6.0
       - yarl==1.23.0
-prefix: /projectnb/multilm/lsusanto/.conda/envs/pixar_update_env
